@@ -1,0 +1,61 @@
+body{
+	background-image: url('background.jpg');
+	background-repeat: repeat-x;
+	background-size: 73%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.welcome{
+	margin-top: 200px;
+	color: white;
+	font-weight: bold;
+	-webkit-text-fill-color: #A18438;
+	-webkit-text-stroke-width:2px ;
+}
+
+.t1{
+	font-size: 40px;
+	/*color: white;*/
+	line-height: -100px;
+	/*margin-top: 50px;*/
+}
+
+.t2{
+	font-size: 70px;
+
+}
+
+.t3{
+	margin-top: 230px;
+}
+
+/*.t5{
+	background-color: #FFB800;
+	height: 450px;
+}*/
+
+.btn{
+	margin-right: 30-px;
+}
+
+.contact{
+	margin-left: 70px ;
+}
+
+.follow{
+	text-align: center;
+}
+
+.sosmed img{
+	height: 20px;
+	width: auto;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
